@@ -1,0 +1,1713 @@
+Invoked rte_get_next_lcore
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 0
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 1
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 2
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 3
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 1 for coreid: 4
+Returning from rte_get_next_lcore
+EAL: Probing VFIO support...
+Invoked rte_get_next_lcore
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 0
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 1
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 2
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 3
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 1 for coreid: 4
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 5
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 6
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 7
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 8
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 9
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 10
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 11
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 12
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 13
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 14
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 15
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 16
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 17
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 18
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 19
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 20
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 21
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 22
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 23
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 24
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 25
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 26
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 27
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 28
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 29
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 30
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 31
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 32
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 33
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 34
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 35
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 36
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 37
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 38
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 39
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 40
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 41
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 42
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 43
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 44
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 45
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 46
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 47
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 48
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 49
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 50
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 51
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 52
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 53
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 54
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 55
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 56
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 57
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 58
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 59
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 60
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 61
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 62
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 63
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 64
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 65
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 66
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 67
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 68
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 69
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 70
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 71
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 72
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 73
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 74
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 75
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 76
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 77
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 78
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 79
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 80
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 81
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 82
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 83
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 84
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 85
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 86
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 87
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 88
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 89
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 90
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 91
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 92
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 93
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 94
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 95
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 96
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 97
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 98
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 99
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 100
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 101
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 102
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 103
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 104
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 105
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 106
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 107
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 108
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 109
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 110
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 111
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 112
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 113
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 114
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 115
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 116
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 117
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 118
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 119
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 120
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 121
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 122
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 123
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 124
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 125
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 126
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 127
+Returning from rte_get_next_lcore
+Invoked rte_get_next_lcore
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 0
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 1
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 2
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 3
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 1 for coreid: 4
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 5
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 6
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 7
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 8
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 9
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 10
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 11
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 12
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 13
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 14
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 15
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 16
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 17
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 18
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 19
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 20
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 21
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 22
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 23
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 24
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 25
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 26
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 27
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 28
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 29
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 30
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 31
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 32
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 33
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 34
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 35
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 36
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 37
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 38
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 39
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 40
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 41
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 42
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 43
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 44
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 45
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 46
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 47
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 48
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 49
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 50
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 51
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 52
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 53
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 54
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 55
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 56
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 57
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 58
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 59
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 60
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 61
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 62
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 63
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 64
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 65
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 66
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 67
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 68
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 69
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 70
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 71
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 72
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 73
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 74
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 75
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 76
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 77
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 78
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 79
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 80
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 81
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 82
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 83
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 84
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 85
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 86
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 87
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 88
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 89
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 90
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 91
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 92
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 93
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 94
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 95
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 96
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 97
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 98
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 99
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 100
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 101
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 102
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 103
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 104
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 105
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 106
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 107
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 108
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 109
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 110
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 111
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 112
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 113
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 114
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 115
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 116
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 117
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 118
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 119
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 120
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 121
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 122
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 123
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 124
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 125
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 126
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 127
+Returning from rte_get_next_lcore
+Invoked rte_get_next_lcore
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 0
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 1
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 2
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 3
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 1 for coreid: 4
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 5
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 6
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 7
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 8
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 9
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 10
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 11
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 12
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 13
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 14
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 15
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 16
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 17
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 18
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 19
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 20
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 21
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 22
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 23
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 24
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 25
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 26
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 27
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 28
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 29
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 30
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 31
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 32
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 33
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 34
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 35
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 36
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 37
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 38
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 39
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 40
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 41
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 42
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 43
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 44
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 45
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 46
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 47
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 48
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 49
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 50
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 51
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 52
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 53
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 54
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 55
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 56
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 57
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 58
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 59
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 60
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 61
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 62
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 63
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 64
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 65
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 66
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 67
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 68
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 69
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 70
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 71
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 72
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 73
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 74
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 75
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 76
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 77
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 78
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 79
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 80
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 81
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 82
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 83
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 84
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 85
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 86
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 87
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 88
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 89
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 90
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 91
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 92
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 93
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 94
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 95
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 96
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 97
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 98
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 99
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 100
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 101
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 102
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 103
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 104
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 105
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 106
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 107
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 108
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 109
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 110
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 111
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 112
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 113
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 114
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 115
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 116
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 117
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 118
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 119
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 120
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 121
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 122
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 123
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 124
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 125
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 126
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 127
+Returning from rte_get_next_lcore
+Invoked rte_get_next_lcore
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 0
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 1
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 2
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 3
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 1 for coreid: 4
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 5
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 6
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 7
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 8
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 9
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 10
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 11
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 12
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 13
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 14
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 15
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 16
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 17
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 18
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 19
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 20
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 21
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 22
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 23
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 24
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 25
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 26
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 27
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 28
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 29
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 30
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 31
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 32
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 33
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 34
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 35
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 36
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 37
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 38
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 39
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 40
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 41
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 42
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 43
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 44
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 45
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 46
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 47
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 48
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 49
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 50
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 51
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 52
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 53
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 54
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 55
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 56
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 57
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 58
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 59
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 60
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 61
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 62
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 63
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 64
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 65
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 66
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 67
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 68
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 69
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 70
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 71
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 72
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 73
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 74
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 75
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 76
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 77
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 78
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 79
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 80
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 81
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 82
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 83
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 84
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 85
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 86
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 87
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 88
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 89
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 90
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 91
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 92
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 93
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 94
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 95
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 96
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 97
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 98
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 99
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 100
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 101
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 102
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 103
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 104
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 105
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 106
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 107
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 108
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 109
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 110
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 111
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 112
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 113
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 114
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 115
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 116
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 117
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 118
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 119
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 120
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 121
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 122
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 123
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 124
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 125
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 126
+Inside while loop RTE_MAX_LCORE: 128!
+Return value in rte_lcore_is_enabled 0 for coreid: 127
+Returning from rte_get_next_lcore
+EAL: PCI device 0000:42:00.0 on NUMA socket 1
+EAL:   probe driver: 8086:1528 net_ixgbe
+EAL: PCI device 0000:42:00.1 on NUMA socket 1
+EAL:   probe driver: 8086:1528 net_ixgbe
+cur_index:1, action:2, destination:1
+
+APP: Waiting for manager to assign an ID...
+APP: Sleeping while waiting for idAPP: Using Instance ID 1
+APP: Using Service ID 1
+APP: Finished Process Init.
+
+Client process 1 handling packets
+[Press Ctrl-C to quit ...]
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 1
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 2
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 3
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 4
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 5
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 6
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 7
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 8
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 9
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 10
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 11
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 12
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 13
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 14
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 15
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 16
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 17
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 18
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 19
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 20
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 21
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 22
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 23
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 24
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 25
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 26
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 27
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 28
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 29
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 30
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 31
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 32
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 33
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 34
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 35
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 36
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 60
+N°   : 37
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 191
+N°   : 38
+
+
+No IP4 header found
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 39
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 40
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 41
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 42
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 43
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 119
+N°   : 44
+
+
+IHL: 2
+DSCP: 2
+ECN: 1
+Total Length: 768
+Identification: 3
+Flags: 3
+	(DF,MF,
+Fragment Offset: 636
+TTL: 128
+Protocol: 0
+Header Checksum: 7168
+Source IP: 1986343027 (115.48.101.118)
+Destination IP: 0 (0.0.0.0)
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 1492
+N°   : 45
+
+
+IHL: 5
+DSCP: 0
+ECN: 0
+Total Length: 1478
+Identification: 0
+Flags: 0
+	(
+Fragment Offset: 0
+TTL: 64
+Protocol: 17 (UDP)
+Header Checksum: 31914
+Source IP: 33597632 (192.168.0.2)
+Destination IP: 16777226 (10.0.0.1)
+Source Port: 53764
+Destination Port: 10752
+Length: 45573
+Checksum: 58148
+INSIDE1 onvm_ft_lookup_pkt
+KEY PROTOCOL UDP
+INVOKED __rte_hash_lookup_with_hash
+RETURNING BECAUSE KEY NOT FOUND
+TABLE INDEX FROM HASH LOOKUP: -2
+INSIDE onvm_ft_add_pkt
+KEY PROTOCOL UDP
+Packet hash rss 1440044501
+TABLE INDEX AFTER ADDING KEY: 0
+Assigning value to data in onvm_ft_add_pkt
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 1492
+N°   : 46
+
+
+IHL: 5
+DSCP: 0
+ECN: 0
+Total Length: 1478
+Identification: 0
+Flags: 0
+	(
+Fragment Offset: 0
+TTL: 64
+Protocol: 17 (UDP)
+Header Checksum: 31914
+Source IP: 33597632 (192.168.0.2)
+Destination IP: 16777226 (10.0.0.1)
+Source Port: 53764
+Destination Port: 10752
+Length: 45573
+Checksum: 58148
+INSIDE1 onvm_ft_lookup_pkt
+KEY PROTOCOL UDP
+INVOKED __rte_hash_lookup_with_hash
+FOUND KEY IN PRIMARY LoCATION
+TABLE INDEX FROM HASH LOOKUP: 0
+[2J[1;1HPACKETS
+-----
+Port : 0
+Size : 1492
+N°   : 47
+
+
+IHL: 5
+DSCP: 0
+ECN: 0
+Total Length: 1478
+Identificati

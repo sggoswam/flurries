@@ -1,0 +1,1 @@
+cmd_/home/swati/workspace/openNetVM/dpdk/build/build/lib/librte_eal/linuxapp/igb_uio/built-in.o :=  rm -f /home/swati/workspace/openNetVM/dpdk/build/build/lib/librte_eal/linuxapp/igb_uio/built-in.o; ar rcsD /home/swati/workspace/openNetVM/dpdk/build/build/lib/librte_eal/linuxapp/igb_uio/built-in.o
