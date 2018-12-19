@@ -1,1 +1,0 @@
-/home/swati/workspace/openNetVM/dpdk/lib/librte_eal/linuxapp/igb_uio/Makefile
