@@ -285,7 +285,7 @@ onvm_nflib_init(int argc, char *argv[], const char *nf_tag) {
         nf_info = onvm_nflib_info_init(nf_tag);
 
         /* Initialize empty NF's tx manager */
-        onvm_nflib_nf_tx_mgr_init();
+       // onvm_nflib_nf_tx_mgr_init();
 
         mp = rte_mempool_lookup(PKTMBUF_POOL_NAME);
         if (mp == NULL)
